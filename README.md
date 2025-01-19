@@ -54,7 +54,7 @@ pip install -r requirements.txt
 1. Clone this repository:
 
     bash
-    git clone 
+    git clone https://github.com/shivamgehlot/Second_Hand_Car_Price_Prediction_Model.git
     
 
 2. Ensure the dataset file car_data.csv is in the project directory.
