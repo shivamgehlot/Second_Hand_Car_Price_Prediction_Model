@@ -10,8 +10,7 @@ This project implements a *Car Price Prediction Model* using *Linear Regression*
 
 
 📁 Project Directory
-├── car_data.csv             
-# Dataset containing car features and selling prices
+├── car_data.csv             # Dataset containing car features and selling prices
 ├── car_price_prediction.ipynb # Jupyter Notebook with the project code
 ├── requirements.txt          # List of required Python libraries
 └── README.md                 # Project documentation
